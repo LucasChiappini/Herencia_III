@@ -5,6 +5,10 @@
     <ProjectReference Include="..\..\..\PII_CognitiveAPI\src\Library\Library.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <LangVersion>6</LangVersion>
