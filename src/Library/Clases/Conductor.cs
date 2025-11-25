@@ -24,9 +24,10 @@ namespace Library.Clases
             this.Biografia = biografia;
         }
         
-        public virtual void LLevarPasajero()
+        public virtual void LLevarPasajero(Pasajero pasajero)
         {
             throw new System.NotImplementedException();
         }
+
     }
 }
